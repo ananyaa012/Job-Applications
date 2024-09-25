@@ -595,13 +595,22 @@ If you encounter any issues, you can open an issue on [GitHub](https://github.co
 
 ## Conclusion
 
-Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job market by automating and enhancing the job application process. With features like dynamic resume generation and AI-powered personalization, it offers unparalleled flexibility and efficiency. Whether you're a job seeker aiming to maximize your chances of landing a job, a recruiter looking to streamline application submissions, or a career advisor seeking to offer better services, Auto_Jobs_Applier_AIHawk is an invaluable resource. By leveraging cutting-edge automation and artificial intelligence, this tool not only saves time but also significantly increases the effectiveness and quality of job applications in today's competitive landscape.
+Thank you for considering my application. My background in front-end development and passion for innovative solutions make me confident that I can be a valuable asset to your team.
+
+To provide further insight into my coding skills and problem-solving approach, I invite you to explore my GitHub repository: [https://github.com/ananyaa012]. Here, you'll find projects demonstrating my proficiency in front-end tools, programming, and collaborative development.
+
+I look forward to the opportunity to discuss how my experience and projects align with your team's goals.
+
+Best regards,
+Ananya Maitra
+
+
 
 ## Contributors
 
-- [feder-cr](https://github.com/feder-cr) - Creator and Lead Developer
+- [ananyaa012](https://github.com/ananyaa012) - Creator and Lead Developer
 
-Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
+Job Applications is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Job Applications an even more powerful tool for job seekers worldwide.
 
 
 ## License
@@ -609,4 +618,4 @@ Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
-This tool, Auto_Jobs_Applier_AIHawk, is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
+This tool Job Applications is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
