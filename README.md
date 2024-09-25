@@ -61,10 +61,7 @@ Job Applications steps in as a game-changing solution to these challenges. It's 
 
 ## Installation
 
-**Please watch this video to set up your Auto_Jobs_Applier_AIHawk: [How to set up Auto_Jobs_Applier_AIHawk- https://youtu.be/gdW9wogHEUM](https://youtu.be/gdW9wogHEUM)**
-
-<!-- It would be helpful to have a YouTube Media Player template that could be combined with this thumbnail... i.e. the 'play button', 'time stamp' and 'progress bar' so that there is a visual que telling users that this is a link to a playable video. -->
-[![How to set up Auto_jobs_applier_with_AI](https://img.youtube.com/vi/gdW9wogHEUM/0.jpg)]
+[![How to set up Auto_jobs_applications_with_AI]
 
 **Confirmed succesfull runs on the following:**
 - Operating Systems:
@@ -88,8 +85,8 @@ Job Applications steps in as a game-changing solution to these challenges. It's 
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk_automatic_job_application
-   cd Auto_Jobs_Applier_AIHawk
+   git clone https://github.com/feder-cr/Auto_Jobs_Applier_job_application
+   cd Auto_Jobapplications
    ```
 
 4. **Activate virtual environment:**
