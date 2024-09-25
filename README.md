@@ -224,8 +224,8 @@ Each section has specific fields to fill out:
   - Example
   ```yaml
   personal_information:
-    name: "Jane"
-    surname: "Doe"
+    name: "Ananya"
+    surname: "Maitra"
     date_of_birth: "01/01/1990"
     country: "USA"
     city: "New York"
@@ -233,8 +233,8 @@ Each section has specific fields to fill out:
     phone_prefix: "+1"
     phone: "5551234567"
     email: "jane.doe@example.com"
-    github: "https://github.com/janedoe"
-    linkedin: "https://www.linkedin.com/in/janedoe/"
+    github: "https://github.com/ananyaa012"
+    linkedin: "https://www.linkedin.com/in/ananyaa012/"
   ```
 
 - `education_details:`
@@ -303,10 +303,10 @@ Each section has specific fields to fill out:
     projects:
       - name: "Weather App"
         description: "A web application that provides real-time weather information using a third-party API."
-        link: "https://github.com/janedoe/weather-app"
+        link: "https://github.com/ananyaa012/weather-app"
       - name: "Task Manager"
         description: "A task management tool with features for tracking and prioritizing tasks."
-        link: "https://github.com/janedoe/task-manager"
+        link: "https://github.com/ananyaa012/task-manager"
     ```
 
 - `achievements:`
