@@ -22,7 +22,7 @@ Job Applications is a cutting-edge, automated tool designed to revolutionize the
 
 In the digital age, the job search landscape has undergone a dramatic transformation. While online platforms have opened up a world of opportunities, they have also intensified competition. Job seekers often find themselves spending countless hours scrolling through listings, tailoring applications, and repetitively filling out forms. This process can be not only time-consuming but also emotionally draining, leading to job search fatigue and missed opportunities.
 
-### Enter Auto_Jobs_Applier_AIHawk: Your Personal Job Search Assistant
+### Enter Auto_Jobs Applications: Your Personal Job Search Assistant
 
 Job Applications steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
 
