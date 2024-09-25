@@ -85,7 +85,7 @@ Job Applications steps in as a game-changing solution to these challenges. It's 
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_job_application
+   git clone https://github.com/ananyaa012/Auto_Jobs_Applier_job_application
    cd Auto_Jobapplications
    ```
 
