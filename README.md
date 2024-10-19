@@ -106,7 +106,7 @@ Job Applications steps in as a game-changing solution to these challenges. It's 
    ```bash
    pip install -r requirements.txt
    ```
-
+   
 ## Configuration
 
 ### 1. secrets.yaml
